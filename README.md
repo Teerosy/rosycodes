@@ -1,0 +1,2 @@
+My project, Mental Wellness Blog is a mental health resources blog that helps young people living within Pennsylvania have access to mental health resources.
+This blog provides support like: Mental Health Tips, Possitive Affirmatiions, First Aid tips through the Algee Action plan, Information on other resourceful mental health blogs to follow, location and names of psych centers in pennsylvania, suicide prevention hotline and resource and calming sounds to cheer you up.
